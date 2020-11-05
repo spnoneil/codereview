@@ -11,6 +11,7 @@ _A simple landing page to present myself to my future world of coding_
 ## Setup/Installation Requirements
 
 * _No setup necessary, all files included_
+* [GitHub Pages](https://spnoneil.github.io/codereview/)
 
 ## Known Bugs
 
