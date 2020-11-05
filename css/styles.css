@@ -1,0 +1,49 @@
+body {
+  background-color: aliceblue;
+}
+
+h1 {
+  font-family : georgia;
+}
+
+.catdaddy {
+  padding-left: 20px;
+  border : 8px solid rgb(51, 6, 71);
+  border-style: inset;
+  width : 20%;
+  height : auto;
+  float : left;
+}
+
+.github {
+  background-color: rgb(184, 184, 184);
+  word-wrap: break-word;
+  margin : 20px;
+  border: 6px solid rgb(48, 7, 160);
+  padding : 4px;
+  box-sizing: border-box;
+  width : 50%;
+  float : right;
+}
+
+.about {
+  background-color: rgb(184, 184, 184);
+  margin: 20px;
+  border: 6px solid rgb(48, 7, 160);
+  padding: 8px;
+  box-sizing: border-box;
+  width : 50%;
+  float : right;
+}
+.moreabout {
+  background-color: rgb(184, 184, 184);
+  margin: 20px;
+  border: 6px solid rgb(48, 7, 160);
+  padding: 8px;
+  box-sizing: border-box;
+  width : 75%;
+  float : right;
+}
+.containerheads {
+  background-color : rgb(156, 156, 143);
+}
